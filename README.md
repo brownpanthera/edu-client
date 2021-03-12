@@ -171,4 +171,6 @@ By this time you can see a message on your github fork as `your fork is ahead of
 [Abhishek Kumar](https://github.com/Abhishek-kumar09)
 
 
-<a href="https://github.com/facebook/jest/graphs/contributors"><img src="https://opencollective.com/jest/contributors.svg?width=890&button=false" /></a>
+<a class="" data-hovercard-type="user" data-hovercard-url="/users/Abhishek-kumar09/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Abhishek-kumar09">
+          <img class="d-block avatar-user" src="https://avatars.githubusercontent.com/u/48255244?s=64&amp;v=4" width="32" height="32" alt="@Abhishek-kumar09">
+</a>
