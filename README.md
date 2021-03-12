@@ -169,3 +169,6 @@ By this time you can see a message on your github fork as `your fork is ahead of
 [Anuj Garg](https://github.com/KeenWarrior)\
 [Kunal Kushwaha](https://github.com/kunal-kushwaha)\
 [Abhishek Kumar](https://github.com/Abhishek-kumar09)
+
+
+<a href="https://github.com/facebook/jest/graphs/contributors"><img src="https://opencollective.com/jest/contributors.svg?width=890&button=false" /></a>
